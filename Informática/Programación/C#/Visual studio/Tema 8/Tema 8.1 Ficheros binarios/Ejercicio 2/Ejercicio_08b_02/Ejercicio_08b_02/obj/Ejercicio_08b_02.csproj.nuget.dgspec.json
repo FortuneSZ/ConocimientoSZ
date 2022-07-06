@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Académico\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj": {}
+    "D:\\ConocimientoSZ\\Informática\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio 2\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj": {}
   },
   "projects": {
-    "F:\\Académico\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj": {
+    "D:\\ConocimientoSZ\\Informática\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio 2\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Académico\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj",
+        "projectUniqueName": "D:\\ConocimientoSZ\\Informática\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio 2\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj",
         "projectName": "Ejercicio_08b_02",
-        "projectPath": "F:\\Académico\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj",
-        "packagesPath": "C:\\Users\\Fortune\\.nuget\\packages\\",
-        "outputPath": "F:\\Académico\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio_08b_02\\Ejercicio_08b_02\\obj\\",
+        "projectPath": "D:\\ConocimientoSZ\\Informática\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio 2\\Ejercicio_08b_02\\Ejercicio_08b_02\\Ejercicio_08b_02.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\ConocimientoSZ\\Informática\\Programación\\C#\\Visual studio\\Tema 8\\Tema 8.1 Ficheros binarios\\Ejercicio 2\\Ejercicio_08b_02\\Ejercicio_08b_02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\archivos de programa\\Visual estudio\\shared\\NuGetPackages"
+          "D:\\Visual studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fortune\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,12 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
