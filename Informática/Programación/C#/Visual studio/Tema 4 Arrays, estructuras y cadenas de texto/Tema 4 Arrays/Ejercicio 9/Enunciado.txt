@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04a_09.cs que le pida al usuario 10 números reales (doubles), los almacene en un array y luego le diga cuál es el menor de ellos, y en qué posición está

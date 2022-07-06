@@ -1,0 +1,1 @@
+Modifica el ejercicio anterior en un fichero Ejercicio_04a_10b.cs donde, después de lo anterior, le pida al usuario otro título y lo añada en la posición 3, mostrando de nuevo el resultado final

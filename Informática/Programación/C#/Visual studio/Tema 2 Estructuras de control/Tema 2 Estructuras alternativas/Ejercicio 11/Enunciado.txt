@@ -1,0 +1,1 @@
+Crea un programa llamado Ejercicio_02a_11.cs que, usando el operador condicional, muestre por pantalla el menor de dos números introducidos por el usuario.

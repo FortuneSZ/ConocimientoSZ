@@ -1,0 +1,3 @@
+Haz un programa llamado Ejercicio_02d_01b.cs que le pida al usuario su edad y año de nacimiento.
+Debe mostrar un mensaje de error si alguno de los datos no es un número válido
+Debe pedir los dos datos, aunque uno de los dos no sea válido

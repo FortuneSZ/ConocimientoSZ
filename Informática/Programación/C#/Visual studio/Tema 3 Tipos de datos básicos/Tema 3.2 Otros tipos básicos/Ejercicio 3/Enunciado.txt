@@ -1,0 +1,1 @@
+Escribe un programa en el fichero Ejercicio_03c_03.cs que le pida al usuario su nombre, y le conteste con "Hola" si se llama Juan, o con "No te conozco" si se llama de cualquier otra forma

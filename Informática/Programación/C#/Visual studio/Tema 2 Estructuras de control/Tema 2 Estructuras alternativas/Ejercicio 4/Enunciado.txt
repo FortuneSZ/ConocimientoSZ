@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_02a_04.cs que le pida al usuario dos números y muestre la división del primero entre el segundo, siempre que el segundo no sea 0. 
+Si el segundo número es 0, mostrará el mensaje de "No se puede dividir por cero"

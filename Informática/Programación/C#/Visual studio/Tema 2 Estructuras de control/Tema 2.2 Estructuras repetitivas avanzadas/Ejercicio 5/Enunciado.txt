@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_02c_05.cs que le pida al usuario dos números y calcule su máximo común divisor, es decir, el número más alto que sea divisor de ambos
+PISTA: comienza por el número más pequeño de los dos y ve decrementando de uno en uno hasta que lo encuentres

@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_02.cs que cuente del 1 al 10 usando un bucle while

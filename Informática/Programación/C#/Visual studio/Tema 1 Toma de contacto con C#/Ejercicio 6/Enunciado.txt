@@ -1,0 +1,3 @@
+Haz un programa en un fichero fuente llamado Ejercicio_01c_06.cs que calcule la conversión de 3000 metros a millas.
+Deberás saber que 1 milla = 1609 metros
+Pon comentarios donde te parezca adecuado

@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04a_12.cs que modifique el Ejercicio_04a_11 para que el usuario indique el tamaño de cada una de las dos filas, y luego las rellene

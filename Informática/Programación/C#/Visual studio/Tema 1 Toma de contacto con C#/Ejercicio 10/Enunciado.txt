@@ -1,0 +1,5 @@
+Haz un programa llamado Ejercicio_01c_10.cs que le pida al usuario dos datos enteros, los almacene en dos variables a y b y luego muestre en una sola línea, usando la instrucción Console.Write, estas operaciones:
+
+(a + b) * (a - b)
+
+a2 - b2

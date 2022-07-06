@@ -1,0 +1,6 @@
+Haz un programa en el fichero Ejercicio_04c_05.cs que le pida al usuario su nombre y lo muestre como un triángulo creciente. Por ejemplo, si el usuario se llama Juan deberá mostrar:
+
+J
+Ju
+Jua
+Juan

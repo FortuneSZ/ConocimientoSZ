@@ -1,0 +1,3 @@
+Haz un programa en el fichero Ejercicio_04c_14.cs para jugar al juego del ahorcado, de modo que un primer usuario introduzca la palabra a adivinar, 
+se muestre ésta oculta con guiones (-----) y el programa acepte las letras que introduzca el segundo usuario, cambiando los guiones por letras correctas cada vez que acierte (por ejemplo, a---a-t-). 
+La partida terminará cuando se acierte la palabra por completo o el usuario agote sus 8 intentos.

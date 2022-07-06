@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04c_06.cs que le pida al usuario 10 frases, las guarde en un array, y luego le pida repetidamente textos, hasta que escriba la palabra "fin". 
+Para cada texto, le tendrá que decir en cuáles de las 10 posiciones del array está contenido

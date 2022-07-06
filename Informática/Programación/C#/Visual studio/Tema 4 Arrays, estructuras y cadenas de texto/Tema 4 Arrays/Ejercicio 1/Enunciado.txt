@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04a_01.cs que le pida al usuario cuatro números reales (float), los almacene en un array y calcule la media de los 4.

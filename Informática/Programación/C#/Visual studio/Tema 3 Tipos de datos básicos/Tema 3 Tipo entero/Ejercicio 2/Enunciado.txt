@@ -1,0 +1,10 @@
+Analiza línea a línea el siguiente código y averigua para cada línea qué valor tienen las variables implicadas. Haz luego un programa Ejercicio_03a_02.cs que te lo demuestre
+
+int a,b,c;
+a=b=c=5;
+b=a+2;
+b-=3;
+c=-3;
+c*=2;
+++c;
+a*=b;

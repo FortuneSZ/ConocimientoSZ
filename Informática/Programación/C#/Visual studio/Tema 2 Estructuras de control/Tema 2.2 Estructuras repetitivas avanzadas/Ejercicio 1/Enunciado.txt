@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02c_01.cs que muestre por pantalla la secuencia 123451234512345 usando bucles anidados

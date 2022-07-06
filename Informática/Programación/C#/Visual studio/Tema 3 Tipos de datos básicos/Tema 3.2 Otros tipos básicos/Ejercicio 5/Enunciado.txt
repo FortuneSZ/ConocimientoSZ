@@ -1,0 +1,1 @@
+Escribe un programa en el fichero Ejercicio_03c_05.cs que sea una adaptación del Ejercicio_03c_01.cs donde almacenemos en una variable booleana si la letra escrita por el usuario es una vocal o no

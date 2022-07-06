@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_05.cs que sea una variante del Ejercicio_04a_02 donde el usuario, además de introducir el número de mes, introducirá el número de día dentro de ese mes. 
+El programa debe indicarle cuántos días faltan hasta fin de año

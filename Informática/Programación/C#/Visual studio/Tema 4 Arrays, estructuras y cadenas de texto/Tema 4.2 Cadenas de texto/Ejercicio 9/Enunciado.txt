@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04c_09.cs que le pida al usuario un texto y elimine todos los espacios redundantes que contenga (dobles o triples espacios seguidos, por ejemplo). Mostrará al final el texto corregido.

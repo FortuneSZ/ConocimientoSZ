@@ -1,0 +1,2 @@
+Escribe un programa en el fichero Ejercicio_03c_01.cs que le pida al usuario una letra y le diga si es una minúscula de la "a" a la "z" (sin incluir acentos ni eñes) o no. 
+Deberá sacar por pantalla también el código numérico del carácter escrito por el usuario.

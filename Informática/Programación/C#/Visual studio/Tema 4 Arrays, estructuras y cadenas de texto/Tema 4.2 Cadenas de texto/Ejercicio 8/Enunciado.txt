@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04c_08.cs que sea una variante del Ejercicio_04c_06 donde, en lugar de pedirle al usuario que busque textos, reemplazaremos en los 10 textos del array el texto "Java" por "CSharp", 
+y luego mostraremos el contenido del array completo

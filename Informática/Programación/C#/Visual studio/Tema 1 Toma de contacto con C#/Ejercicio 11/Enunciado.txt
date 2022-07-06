@@ -1,0 +1,9 @@
+Haz un programa llamado Ejercicio_01c_11.cs que le pida al usuario un número entero y muestre su tabla de multiplicar empleando {0}, {1} y {2}. Por ejemplo:
+
+3 x 0 = 0
+
+3 x 1 = 3
+
+3 x 2 = 6
+
+...

@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04c_07.cs que sea una variante del Ejercicio_04c_06 donde no importe si el texto está en mayúsculas o minúsculas a la hora de encontrarlo

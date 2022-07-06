@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_07.cs que muestre los múltiplos de 3 y 7 (de ambos) que se encuentren del 100 al 200.

@@ -1,0 +1,3 @@
+Haz un programa llamado Ejercicio_02c_10.cs que le pida al usuario un número y le diga si es primo o no
+Un número primo es aquel que sólo es divisible por él mismo y por 1
+Piensa primero qué tipo de bucle es el más adecuado.

@@ -1,0 +1,7 @@
+Haz un programa llamado Ejercicio_02c_03.cs que le pida al usuario la altura de un rectángulo y muestre un rectángulo creciente de esa altura. Por ejemplo si la altura es 5, debería mostrar algo así:
+
+*
+**
+***
+****
+*****

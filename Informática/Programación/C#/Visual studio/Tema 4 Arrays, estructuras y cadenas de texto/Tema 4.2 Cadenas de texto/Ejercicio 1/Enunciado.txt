@@ -1,0 +1,3 @@
+Haz un programa en el fichero Ejercicio_04c_01.cs que le pida al usuario dos números enteros y una operación matemática (suma, resta, multiplicación o división), y saque por pantalla el resultado
+Las operaciones se pueden especificar como "suma", "resta", "multiplicacion", "division", o bien con "+", "-", "*", "/". Adicionalmente, para la multiplicación también admitiremos "x"
+El mensaje final debe tener la forma "La suma de X e Y es Z", sustituyendo la operación y los datos por los que haya indicado el usuario

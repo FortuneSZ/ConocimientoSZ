@@ -1,0 +1,5 @@
+Crea un programa en un fichero llamado Ejercicio_03b_01.cs que muestre el resultado de dividir 13 entre 6 de tres modos distintos:
+
+Utilizando variables enteras (int)
+Utilizando variables float
+Utilizando variables double

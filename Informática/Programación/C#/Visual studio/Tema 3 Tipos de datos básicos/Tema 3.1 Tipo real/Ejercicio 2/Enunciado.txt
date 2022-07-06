@@ -1,0 +1,2 @@
+Crea un programa en un fichero llamado Ejercicio_03b_02.cs que calcule el área de un círculo dado su radio (entero).
+El área de un círculo se calcula como pi * radio2

@@ -1,0 +1,1 @@
+Repite el ejercicio anterior en otro archivo Ejercicio_02c_09b.cs dándole al usuario un máximo de 6 intentos

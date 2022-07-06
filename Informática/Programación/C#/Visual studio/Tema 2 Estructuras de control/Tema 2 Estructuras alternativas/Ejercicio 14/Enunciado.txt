@@ -1,0 +1,5 @@
+Crea un programa llamado Ejercicio_02a_14.cs que le pida al usuario un carácter y diga a cuál de estos grupos pertenece:
+
+Letra alfabética de la A a la Z
+Dígito del 0 al 9
+Cualquier otra cosa (signos de puntuación, letras minúsculas...)

@@ -1,0 +1,2 @@
+Crea un programa en un fichero llamado Ejercicio_03b_06.cs que calcule la raíz cuadrada del número que le indique el usuario, empleando la instrucción Math.Sqrt
+Dicha función espera recibir un dato double, pero al usuario se le pedirá un dato float, y el resultado debe calcularse como float

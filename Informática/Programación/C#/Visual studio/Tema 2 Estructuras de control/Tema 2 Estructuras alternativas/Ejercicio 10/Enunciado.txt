@@ -1,0 +1,1 @@
+Crea un programa llamado Ejercicio_02a_10.cs que pida al usuario dos números enteros y diga "Uno de los números es positivo", "Los dos números son positivos" o bien "Ninguno de losnúmeros es positivo", según corresponda.

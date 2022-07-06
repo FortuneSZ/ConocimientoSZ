@@ -1,0 +1,2 @@
+Escribe un programa en el fichero Ejercicio_03c_02.cs que le pida al usuario cuatro letras y las muestre en orden inverso, encerradas entre comillas dobles
+Ejemplo: si el usuario escribe a, l, o, h, se deberá mostrar "hola"

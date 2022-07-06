@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02c_07.cs que le pida al usuario un texto y muestre cuántas letras a minúscula hay en él

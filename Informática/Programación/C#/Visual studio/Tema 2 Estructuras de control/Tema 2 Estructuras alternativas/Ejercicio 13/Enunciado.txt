@@ -1,0 +1,1 @@
+Crea un programa llamado Ejercicio_02a_13.cs que le pida al usuario una letra y diga si es una vocal o no.

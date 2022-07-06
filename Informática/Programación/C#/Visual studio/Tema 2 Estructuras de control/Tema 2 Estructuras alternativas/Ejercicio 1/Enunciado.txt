@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02a_01.cs que le pida al usuario un número entero y le diga si es un número par. Si no lo es, el programa no debe mostrar nada por pantalla

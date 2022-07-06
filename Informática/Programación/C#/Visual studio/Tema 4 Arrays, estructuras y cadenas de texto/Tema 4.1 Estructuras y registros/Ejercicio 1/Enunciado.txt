@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04b_01.cs que defina un struct para almacenar los datos de una canción en formato MP3: artista, título, duración en segundos y tamaño del fichero en KB. 
+Pide al usuario que rellene los datos de una canción y muestra la información por pantalla

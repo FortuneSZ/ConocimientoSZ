@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_05.cs que cuente del 1 al 10 usando do..while

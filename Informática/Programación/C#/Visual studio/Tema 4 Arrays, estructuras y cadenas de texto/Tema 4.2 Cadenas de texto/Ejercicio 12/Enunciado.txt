@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04c_12.cs que le pida al usuario 5 frases, las guarde en un array y le diga cuál es la mayor de todas, sin tener en cuenta mayúsculas o minúsculas

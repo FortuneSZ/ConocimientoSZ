@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02c_06.cs que muestre los números del 2 al 106, salvo los que sean múltiplos de 10

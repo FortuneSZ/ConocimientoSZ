@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_03a_04.cs que le pida al usuario números enteros y muestre su equivalente en binario y hexadecimal hasta que el usuario escriba el 0.

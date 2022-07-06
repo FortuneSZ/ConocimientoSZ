@@ -1,0 +1,5 @@
+Ampliaremos el ejercicio anterior en otro fichero llamado Ejercicio_04b_02.cs. Definiremos un array para almacenar hasta 100 canciones, y mostraremos al usuario un menú con estas opciones:
+
+Añadir una canción al final
+Mostrar los títulos de todas las canciones
+Buscar canciones de un artista determinado

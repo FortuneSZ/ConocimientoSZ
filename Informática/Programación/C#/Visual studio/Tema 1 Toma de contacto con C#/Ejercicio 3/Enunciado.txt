@@ -1,0 +1,9 @@
+Intenta determinar qué resultado van a dar las siguientes operaciones, y luego escribe un programa llamado Ejercicio_01c_03.cs que lo confirme:
+
+3 + 4 * 5
+
+(20 + 5) % 6
+
+15 + -5 * 6 / 10
+
+2 + 10 / 5 * 2 -7 % 1

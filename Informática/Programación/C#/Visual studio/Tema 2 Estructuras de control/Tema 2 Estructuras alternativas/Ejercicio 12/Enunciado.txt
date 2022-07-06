@@ -1,0 +1,4 @@
+Crea un programa llamado Ejercicio_02a_12.cs que le pida al usuario un número de mes (entre 1 y 12) y, usando switch, le diga el mes con letra
+Por ejemplo, si el usuario escribe 3, se deberá mostrar "Marzo"
+Si el número de mes no es correcto, se deberá mostrar el mensaje "Mes incorrecto"
+¿Cómo realizarías este ejercicio usando if?

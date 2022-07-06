@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_03a_01.cs que le pida al usuario dos datos de tipo byte y calcule su multiplicación en otra variable, mostrando el resultado por pantalla

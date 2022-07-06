@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_08.cs que muestre la tabla de multiplicar del número que le diga el usuario (que deberá ser del 1 al 10)

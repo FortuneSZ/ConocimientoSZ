@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_02.cs que almacene en un array de 12 posiciones enteras el número de días que tiene cada mes. 
+Luego le pedirá al usuario que escriba un número de mes (del 1 al 12) y le dirá, consultando en el array, cuántos días tiene ese mes

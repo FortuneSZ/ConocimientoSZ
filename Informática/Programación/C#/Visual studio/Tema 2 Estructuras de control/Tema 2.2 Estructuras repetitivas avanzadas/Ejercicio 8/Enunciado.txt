@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_02c_08.cs que muestre una cuenta atrás desde el número que indique el usuario (que deberá ser positivo) hasta cero.
+Piensa primero qué tipo de bucle es el más adecuado.

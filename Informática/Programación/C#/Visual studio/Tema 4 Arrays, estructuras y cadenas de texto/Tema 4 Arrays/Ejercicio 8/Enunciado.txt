@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_08.cs que le pida al usuario 10 nombres (strings), los memorice en un array, y luego le pida al usuario un nombre para buscar. 
+El programa le deberá decir si el nombre está en el array o no, y en qué posición

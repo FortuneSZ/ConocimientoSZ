@@ -1,0 +1,1 @@
+Haz un programa en un fichero fuente llamado Ejercicio_01c_04.cs que almacene en dos variables enteras los valores 23 y 42 y luego calcule su suma en otra variable diferente y muestre el resultado por pantalla

@@ -1,0 +1,1 @@
+Ampliaremos el ejercicio anterior en otro fichero llamado Ejercicio_04b_03.cs para que la duración de las canciones se almacene en otro struct indicando los minutos y los segundos por separado

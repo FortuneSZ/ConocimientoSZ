@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_06.cs que le pida al usuario 5 nombres (strings), los memorice en un array, y luego repetidamente le pida al usuario que introduzca nombres, y le dirá si están o no en el array. 
+El programa finalizará cuando el usuario escribe como nombre "fin"

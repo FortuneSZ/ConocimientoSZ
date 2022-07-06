@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04c_03.cs que le pida al usuario su nombre y muestre sus letras separadas por guiones. Por ejemplo, si el usuario se llama Juan, deberá mostrar J-u-a-n

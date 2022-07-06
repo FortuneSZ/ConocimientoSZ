@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04c_02.cs que le pida al usuario su nombre y le diga cuál es su inicial

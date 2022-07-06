@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04c_04.cs que recoja en dos strings dos números muy largos y luego muestre su suma por pantalla. 
+Deberás sumarlos manualmente como se enseña en el colegio (viendo si tienes que llevar o no en cada columna)

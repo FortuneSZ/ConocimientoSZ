@@ -1,0 +1,2 @@
+Escribe un programa en el fichero Ejercicio_03c_07.cs que, usando una variable booleana, indique si un número que introduce el usuario es primo o no (variante del Ejercicio_02c_10)
+PISTA: utiliza la variable booleana para suponer, al principio, que el número es primo, y utiliza el bucle para intentar demostrar lo contrario (si tiene algún divisor)

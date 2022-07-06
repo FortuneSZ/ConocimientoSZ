@@ -1,0 +1,7 @@
+Haz un programa llamado Ejercicio_02c_04.cs que sea una variante del ejercicio anterior en el que se muestre el triángulo volteado hacia la derecha. Por ejemplo si la altura es 5, debería mostrar algo así:
+
+    *
+   **
+  ***
+ ****
+*****

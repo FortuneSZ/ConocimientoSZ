@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_01c_09.cs que sea una adaptación del ejercicio anterior Ejercicio_01c_08.cs utilizando la cláusula using System.

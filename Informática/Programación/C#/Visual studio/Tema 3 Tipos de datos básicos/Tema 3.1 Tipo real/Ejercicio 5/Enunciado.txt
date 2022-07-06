@@ -1,0 +1,11 @@
+Crea un programa en un fichero llamado Ejercicio_03b_05.cs que muestre por pantalla los 10 primeros valores de la función y = (x - 5)2. Después, deberá dibujar la gráfica en pantalla, girada hacia la derecha.
+
+                *
+         *
+    *
+ *
+*
+ *
+    *
+         *
+                *

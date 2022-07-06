@@ -1,0 +1,2 @@
+Crea un programa en un fichero llamado Ejercicio_03b_07.cs que calcule el perímetro, área y diagonal de un rectángulo una vez que el usuario introduzca la longitud de su base y su altura. 
+Todos los datos deben mostrarse con 1 cifra decimal

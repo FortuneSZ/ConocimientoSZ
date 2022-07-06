@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_01.cs que le pida al usuario su contraseña numérica. Deberá volvérsela a pedir tantas veces sean necesarias, mientras no introduzca la correcta, que es 1111.

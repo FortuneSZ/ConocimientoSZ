@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_03a_05.cs que le pida al usuario los componentes RGB de un color en formato decimal (valores de 0 a 255) y luego muestre ese color en formato hexadecimal.
+Ejemplo: para los colores R = 255, G = 160 y B = 0 debe mostrar FFA000

@@ -1,0 +1,8 @@
+Haz un programa llamado Ejercicio_02c_02.cs que le pida al usuario el lado de un cuadrado (cantidad entera) y dibuje por pantalla un cuadrado de ese lado, relleno de asteriscos. 
+Por ejemplo si el lado es 4, debería mostrar algo así:
+
+****
+****
+****
+****
+

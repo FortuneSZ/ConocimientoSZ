@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_02c_09.cs que le pida al usuario que adivine un número del 1 al 100, previamente fijado en el código. En cada repetición, le deberá decir al usuario si se ha pasado o se ha quedado corto
+Piensa primero qué tipo de bucle es el más adecuado.

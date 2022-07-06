@@ -1,0 +1,6 @@
+Modifica el ejercicio anterior en un fichero Ejercicio_04a_10d.cs donde el programa muestre repetidamente al usuario un menú con las siguientes opciones, y haga cada vez lo que diga el usuario (hasta que elija salir)
+
+Nuevo videojuego al final
+Nuevo videojuego en una posición
+Borrar videojuego
+Salir

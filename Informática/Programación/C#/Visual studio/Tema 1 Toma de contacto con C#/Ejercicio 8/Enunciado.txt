@@ -1,0 +1,2 @@
+Haz un programa llamado Ejercicio_01c_08.cs que sea una adaptación del ejercicio anterior Ejercicio_01c_06.cs.
+En este caso, el usuario introducirá la cantidad de metros a convertir, y el programa le indicará cuántas millas son esos metros.

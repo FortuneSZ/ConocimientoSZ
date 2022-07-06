@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_04.cs que le pida al usuario cuántos números va a introducir. Después creará un array de ese tamaño (de reales)
+y le pedirá que escriba esos números. Finalmente, le mostrará la media de los números introducidos, y cuáles de esos números están por encima de la media

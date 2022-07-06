@@ -1,0 +1,2 @@
+Escribe un programa en el fichero Ejercicio_03c_06.cs que le pida al usuario dos números enteros y almacene en una variable booleana si ambos son pares o no. 
+Hazlo primero empleando if-else para definir el valor de la variable y luego directamente (sin ese if-else para asignarle el valor)

@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04a_03.cs que le pida al usuario 6 números enteros, los almacene en un array y los muestre en orden inverso a como se han introducido, separados por comas

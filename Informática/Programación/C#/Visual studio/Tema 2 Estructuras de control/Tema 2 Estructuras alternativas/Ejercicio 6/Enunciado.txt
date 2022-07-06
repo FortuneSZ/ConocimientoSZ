@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02a_06.cs que le pida al usuario un número y le diga si es múltiplo de 2 y de 3 (de los dos a la vez)

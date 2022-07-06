@@ -1,0 +1,1 @@
+Haz un programa en el fichero Ejercicio_04d_01.cs que le pida al usuario varios números en una línea, separados por espacios, y calcule su suma usando foreach

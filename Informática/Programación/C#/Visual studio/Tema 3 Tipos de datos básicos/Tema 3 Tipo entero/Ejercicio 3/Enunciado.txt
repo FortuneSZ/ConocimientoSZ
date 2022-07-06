@@ -1,0 +1,4 @@
+Haz un programa llamado Ejercicio_03a_03.cs que le pida al usuario dos números enteros de tipo int de 5 o 6 cifras, y luego los multiplique.
+
+¿Qué ocurre?
+¿Qué solución se te ocurre para este problema?

@@ -1,0 +1,2 @@
+Haz un programa en el fichero Ejercicio_04a_07.cs que reserve espacio para almacenar hasta 100 nombres (strings). 
+El usuario comenzará a introducir nombres, hasta que pulse Intro sin escribir nada. En ese momento, el programa deberá decirle cuántos nombres ha almacenado, y los mostrará por pantalla.

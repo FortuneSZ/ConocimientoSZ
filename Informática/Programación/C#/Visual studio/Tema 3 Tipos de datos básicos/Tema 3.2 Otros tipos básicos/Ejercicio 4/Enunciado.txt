@@ -1,0 +1,1 @@
+Escribe un programa en el fichero Ejercicio_03c_04.cs que le pida al usuario su login y su password. El password se le debe pedir dos veces, y si no coinciden, se le volverá a pedir dos veces más, hasta que coincidan

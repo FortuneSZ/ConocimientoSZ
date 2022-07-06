@@ -1,0 +1,2 @@
+Modifica el ejercicio anterior en un fichero Ejercicio_04a_10c.cs donde, después de lo anterior, le pida al usuario una posición (de 0 a la cantidad introducida), 
+elimine el videojuego de esa posición y muestre el resultado final

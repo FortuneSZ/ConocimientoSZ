@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02a_07.cs que le pida al usuario un número y le diga si es múltiplo de 2 pero no de 3

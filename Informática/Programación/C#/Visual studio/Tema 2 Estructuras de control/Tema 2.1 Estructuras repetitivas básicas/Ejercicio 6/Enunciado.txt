@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_06.cs que muestre los números del 20 al 10 (en orden descendente).

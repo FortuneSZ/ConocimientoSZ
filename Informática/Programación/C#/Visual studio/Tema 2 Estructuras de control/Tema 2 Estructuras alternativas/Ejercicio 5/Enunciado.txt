@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02a_05.cs que le pida al usuario un número y le diga si es múltiplo de 2 o de 3 (de uno de los dos o de los dos)

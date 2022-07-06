@@ -1,0 +1,1 @@
+Haz un programa en un fichero fuente llamado Ejercicio_01c_07.cs que le pida al usuario dos números, los almacene en dos variables n1 y n2 y luego calcule la división y el resto de n1 entre n2

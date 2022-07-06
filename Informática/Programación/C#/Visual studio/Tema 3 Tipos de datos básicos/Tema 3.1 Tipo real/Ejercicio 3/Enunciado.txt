@@ -1,0 +1,2 @@
+Crea un programa en un fichero llamado Ejercicio_03b_03.cs que le pida al usuario una distancia en Km (entera) y el tiempo necesario para recorrerla (dando por separado las horas, minutos y segundos)
+ y calcule la velocidad en m/s a la que se ha ido

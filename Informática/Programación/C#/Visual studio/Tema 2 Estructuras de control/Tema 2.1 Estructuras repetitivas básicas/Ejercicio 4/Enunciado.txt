@@ -1,0 +1,1 @@
+Haz un programa llamado Ejercicio_02b_04.cs que le pida números al usuario y vaya calculando la suma de todos ellos. El programa debe finalizar cuando el usuario escriba un número negativo o 0.

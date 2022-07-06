@@ -1,0 +1,2 @@
+Crea un programa en un fichero llamado Ejercicio_03b_04.cs que halle las soluciones de una ecuación de segundo grado Ax2 + Bx + C, dados por el usuario los valores de A, B y C
+Puedes utilizar la instrucción Math.Sqrt(numero) para calcular la raíz cuadrada que se pide en la fórmula de la ecuación
