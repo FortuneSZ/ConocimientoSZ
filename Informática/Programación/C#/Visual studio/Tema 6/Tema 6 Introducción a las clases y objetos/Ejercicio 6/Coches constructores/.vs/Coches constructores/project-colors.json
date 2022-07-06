@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a15f592a-3c1f-4aec-a734-b90565b8d766": {
+      "ProjectGuid": "a15f592a-3c1f-4aec-a734-b90565b8d766",
+      "DisplayName": "Coches constructores",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

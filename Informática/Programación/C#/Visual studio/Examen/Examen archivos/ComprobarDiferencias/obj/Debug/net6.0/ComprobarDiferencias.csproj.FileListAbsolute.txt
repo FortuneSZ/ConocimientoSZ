@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ComprobarDiferencias.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ComprobarDiferencias.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ComprobarDiferencias.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ComprobarDiferencias.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ref\ComprobarDiferencias.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\bin\Debug\net6.0\ComprobarDiferencias.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ref\ComprobarDiferencias.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen archivos\ComprobarDiferencias\obj\Debug\net6.0\ComprobarDiferencias.genruntimeconfig.cache

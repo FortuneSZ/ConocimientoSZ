@@ -1,0 +1,19 @@
+Una web ofrece diferentes tipos de contenidos. Unos son descargables y otros sólo están disponibles online. Gestionaremos todos los contenidos mediante una clase padre abstracta llamada Contenido, que tendrá como único atributo el título del contenido. Distinguiremos los siguientes tipos de contenido:
+
+Libros (clase Libro), sí serán descargables. Almacenaremos el número de páginas del libro y si es en color o blanco y negro.
+Documentales (clase Documental), también descargable. Almacenaremos la temática del documental (naturaleza, espacio...) y la duración en minutos.
+Tutoriales (clase Tutorial), no descargable. Almacenaremos el número de sesiones del tutorial.
+Los contenidos que sean descargables deberán implementar una interfaz llamada IDescargable, con un método llamado calcularTamano, sin parámetros, que devolverá el tamaño en MB del contenido a descargar (número real):
+
+En el caso de los libros, el tamaño vendrá dado por su número de páginas multiplicado por 0,01. En el caso de que el libro sea a color, lo multiplicaremos por 0,03. Por ejemplo, un libro de 200 páginas en blanco y negro ocupará 2 MB para descargar.
+En el caso de los documentales, el tamaño vendrá dado por el número de minutos del documental multiplicado por 15. Así, un documental de 1 hora por ejemplo (60 minutos) ocupará 900 MB para descargar.
+En el programa principal, le pediremos al usuario que rellene un array de 10 contenidos (eligiendo el usuario de qué tipo será cada uno, y rellenando la información pertinente). Supondremos que la información introducida por el usuario será válida.
+
+Una vez relleno el array, se pide:
+
+Ordenarlo alfabéticamente por título empleando la interfaz IComparable.
+Mostrarlo por pantalla ordenado, teniendo en cuenta que los libros deben mostrarse en amarillo, los documentales en verde y los tutoriales en azul
+Listar los contenidos descargables del array, indicando en cada uno el total de MB que ocupará la descarga.
+Se pide:
+
+Desarrollar el programa solicitado en un proyecto llamado Contenidos en Visual Studio, y entregar el proyecto comprimido en un archivo ZIP o similar.

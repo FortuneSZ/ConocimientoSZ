@@ -1,0 +1,30 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\CasasPuertas.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\CasasPuertas.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\CasasPuertas.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\bin\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\CasasPuertas\obj\Debug\net6.0\CasasPuertas.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 1 Casa con sus puertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.genruntimeconfig.cache

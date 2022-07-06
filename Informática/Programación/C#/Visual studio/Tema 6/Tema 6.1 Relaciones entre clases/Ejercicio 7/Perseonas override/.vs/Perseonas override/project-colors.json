@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80d906ff-6b9a-4eb6-bdc2-e6d475b627ab": {
+      "ProjectGuid": "80d906ff-6b9a-4eb6-bdc2-e6d475b627ab",
+      "DisplayName": "Perseonas override",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

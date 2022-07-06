@@ -1,0 +1,30 @@
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\Domotica.exe
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\Domotica.deps.json
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\Domotica.runtimeconfig.json
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\Domotica.dll
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\ref\Domotica.dll
+C:\Users\Nacho\source\repos\Domotica\Domotica\bin\Debug\net6.0\Domotica.pdb
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.dll
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\ref\Domotica.dll
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.pdb
+C:\Users\Nacho\source\repos\Domotica\Domotica\obj\Debug\net6.0\Domotica.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\Domotica.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\Domotica.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\Domotica.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\Domotica.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\ref\Domotica.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\bin\Debug\net6.0\Domotica.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\ref\Domotica.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 4 Domótica\Domotica\Domotica\obj\Debug\net6.0\Domotica.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.exe
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.deps.json
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.runtimeconfig.dev.json
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.dll
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ref\ejercicio_01c_02.dll
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\bin\Debug\net5.0\ejercicio_01c_02.pdb
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.dll
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ref\ejercicio_01c_02.dll
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.pdb
+D:\Escritorio\DAM\Programación\Programación\Visual studio\Tema 1\Ejercicio 2 Realizar operaciones y mostrarlas en pantalla\ejercicio_01c_02\ejercicio_01c_02\obj\Debug\net5.0\ejercicio_01c_02.genruntimeconfig.cache

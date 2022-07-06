@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\Ejercicio_06a_01.cs.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\Ejercicio_06a_01.cs.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\Ejercicio_06a_01.cs.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\Ejercicio_06a_01.cs.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\ref\Ejercicio_06a_01.cs.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\bin\Debug\net6.0\Ejercicio_06a_01.cs.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\ref\Ejercicio_06a_01.cs.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Ejercicio_06a_01.cs\obj\Debug\net6.0\Ejercicio_06a_01.cs.genruntimeconfig.cache

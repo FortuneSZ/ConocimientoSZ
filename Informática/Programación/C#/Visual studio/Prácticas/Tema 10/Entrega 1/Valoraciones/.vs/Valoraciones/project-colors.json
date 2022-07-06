@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31337864-192a-4e38-b093-c4f0f3cf229d": {
+      "ProjectGuid": "31337864-192a-4e38-b093-c4f0f3cf229d",
+      "DisplayName": "Valoraciones",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

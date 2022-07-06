@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\Ejercicio_08b_02.exe
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\ejemplo.bmp
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\Ejercicio_08b_02.deps.json
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\Ejercicio_08b_02.runtimeconfig.json
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\Ejercicio_08b_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\ref\Ejercicio_08b_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\bin\Debug\net6.0\Ejercicio_08b_02.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\ref\Ejercicio_08b_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08b_02\Ejercicio_08b_02\obj\Debug\net6.0\Ejercicio_08b_02.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\ref\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\ref\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\ref\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\bin\Debug\net6.0\Contenidos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\ref\Contenidos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 3 Contenidos\Contenidos\Contenidos\obj\Debug\net6.0\Contenidos.genruntimeconfig.cache

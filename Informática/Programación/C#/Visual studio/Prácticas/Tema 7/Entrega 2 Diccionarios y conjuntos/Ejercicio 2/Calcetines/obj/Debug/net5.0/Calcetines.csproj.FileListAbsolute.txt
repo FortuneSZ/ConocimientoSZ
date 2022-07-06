@@ -1,0 +1,16 @@
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.csproj.AssemblyReference.cache
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.AssemblyInfoInputs.cache
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.AssemblyInfo.cs
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.csproj.CoreCompileInputs.cache
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.exe
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.deps.json
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.runtimeconfig.json
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.runtimeconfig.dev.json
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.dll
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\bin\Debug\net5.0\Calcetines.pdb
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.dll
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\refint\Calcetines.dll
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.pdb
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\Calcetines.genruntimeconfig.cache
+C:\Users\Dobedto\source\repos\Calcetines\Calcetines\obj\Debug\net5.0\ref\Calcetines.dll

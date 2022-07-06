@@ -1,0 +1,14 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ejercicio_02c_03.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ejercicio_02c_03.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ejercicio_02c_03.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ejercicio_02c_03.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ref\ejercicio_02c_03.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\bin\Debug\net6.0\ejercicio_02c_03.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ref\ejercicio_02c_03.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2.2 Estructuras repetitivas avanzadas\ejercicio_02c_03\obj\Debug\net6.0\ejercicio_02c_03.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\EjemploBMP.exe
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\ejemplo.bmp
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\EjemploBMP.deps.json
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\EjemploBMP.runtimeconfig.json
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\EjemploBMP.dll
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\ref\EjemploBMP.dll
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\bin\Debug\net6.0\EjemploBMP.pdb
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.dll
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\ref\EjemploBMP.dll
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.pdb
+C:\Users\Nacho\source\repos\EjemploBMP\EjemploBMP\obj\Debug\net6.0\EjemploBMP.genruntimeconfig.cache

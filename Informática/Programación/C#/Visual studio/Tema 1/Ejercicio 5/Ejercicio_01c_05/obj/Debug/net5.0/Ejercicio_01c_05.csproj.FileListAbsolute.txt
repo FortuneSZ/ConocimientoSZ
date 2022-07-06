@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.runtimeconfig.dev.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\ref\Ejercicio_01c_05.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\bin\Debug\net5.0\Ejercicio_01c_05.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\ref\Ejercicio_01c_05.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 5 Suma de variables 2\Ejercicio_01c_05\obj\Debug\net5.0\Ejercicio_01c_05.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc3f6f00-67b5-4bde-9e59-288dd84ce1e9": {
+      "ProjectGuid": "fc3f6f00-67b5-4bde-9e59-288dd84ce1e9",
+      "DisplayName": "ConsoleInvaders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

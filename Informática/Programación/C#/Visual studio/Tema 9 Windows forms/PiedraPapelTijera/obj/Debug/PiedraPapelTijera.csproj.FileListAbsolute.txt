@@ -1,0 +1,11 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Form1.resources
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Properties.Resources.resources
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.GenerateResource.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb

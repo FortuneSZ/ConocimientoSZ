@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1fb18ed-f81e-4516-ac93-8f3287fd0b0f": {
+      "ProjectGuid": "d1fb18ed-f81e-4516-ac93-8f3287fd0b0f",
+      "DisplayName": "Mapa2D",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

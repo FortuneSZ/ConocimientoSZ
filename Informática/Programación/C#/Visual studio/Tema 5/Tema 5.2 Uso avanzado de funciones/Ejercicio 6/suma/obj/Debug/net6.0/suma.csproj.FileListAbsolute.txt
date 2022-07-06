@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\suma.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\suma.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\suma.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\suma.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\ref\suma.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\bin\Debug\net6.0\suma.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\ref\suma.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\suma\obj\Debug\net6.0\suma.genruntimeconfig.cache

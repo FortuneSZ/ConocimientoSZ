@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\Personas polimorf.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\Personas polimorf.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\Personas polimorf.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\Personas polimorf.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\ref\Personas polimorf.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\bin\Debug\net6.0\Personas polimorf.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\ref\Personas polimorf.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas polimorf\obj\Debug\net6.0\Personas polimorf.genruntimeconfig.cache

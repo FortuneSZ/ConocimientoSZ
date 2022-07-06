@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\Ejercicio_10c_01.exe
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\Ejercicio_10c_01.deps.json
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\Ejercicio_10c_01.runtimeconfig.json
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\Ejercicio_10c_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\ref\Ejercicio_10c_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\bin\Debug\net6.0\Ejercicio_10c_01.pdb
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\ref\Ejercicio_10c_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.pdb
+C:\Users\Nacho\source\repos\Ejercicio_10c_01\Ejercicio_10c_01\obj\Debug\net6.0\Ejercicio_10c_01.genruntimeconfig.cache

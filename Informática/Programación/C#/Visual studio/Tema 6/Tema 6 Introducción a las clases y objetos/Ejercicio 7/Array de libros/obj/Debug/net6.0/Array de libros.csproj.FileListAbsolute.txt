@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\Array de libros.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\Array de libros.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\Array de libros.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\Array de libros.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\ref\Array de libros.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\bin\Debug\net6.0\Array de libros.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\ref\Array de libros.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Array de libros\obj\Debug\net6.0\Array de libros.genruntimeconfig.cache

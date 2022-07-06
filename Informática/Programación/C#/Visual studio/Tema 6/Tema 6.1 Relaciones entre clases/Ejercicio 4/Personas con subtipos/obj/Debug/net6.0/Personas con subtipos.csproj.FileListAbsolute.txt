@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\Personas con subtipos.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\Personas con subtipos.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\Personas con subtipos.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\Personas con subtipos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\ref\Personas con subtipos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\bin\Debug\net6.0\Personas con subtipos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\ref\Personas con subtipos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Personas con subtipos\obj\Debug\net6.0\Personas con subtipos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\Perseonas override.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\Perseonas override.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\Perseonas override.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\Perseonas override.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\ref\Perseonas override.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\bin\Debug\net6.0\Perseonas override.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\ref\Perseonas override.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Perseonas override\obj\Debug\net6.0\Perseonas override.genruntimeconfig.cache

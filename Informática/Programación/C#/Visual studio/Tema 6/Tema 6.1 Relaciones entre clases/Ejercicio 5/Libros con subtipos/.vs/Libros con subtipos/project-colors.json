@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fad553d0-3ea1-45f3-aea5-003295eca009": {
+      "ProjectGuid": "fad553d0-3ea1-45f3-aea5-003295eca009",
+      "DisplayName": "Libros con subtipos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

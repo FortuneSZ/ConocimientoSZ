@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\Nim.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\Nim.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\Nim.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\Nim.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\ref\Nim.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\bin\Debug\net6.0\Nim.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\ref\Nim.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Entrega 2 Nim\Nim\obj\Debug\net6.0\Nim.genruntimeconfig.cache

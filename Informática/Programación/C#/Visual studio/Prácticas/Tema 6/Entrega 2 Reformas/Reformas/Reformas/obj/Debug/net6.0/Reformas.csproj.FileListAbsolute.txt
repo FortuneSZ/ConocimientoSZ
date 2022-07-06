@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\Reformas.exe
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\Reformas.deps.json
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\Reformas.runtimeconfig.json
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\Reformas.dll
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\ref\Reformas.dll
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\bin\Debug\net6.0\Reformas.pdb
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.dll
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\ref\Reformas.dll
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.pdb
+C:\Users\Daniel\Desktop\Reformas-20220203T150622Z-001\Reformas\Reformas\obj\Debug\net6.0\Reformas.genruntimeconfig.cache

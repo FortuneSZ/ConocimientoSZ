@@ -1,0 +1,30 @@
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.exe
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.deps.json
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.runtimeconfig.json
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.dll
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\ref\Fracciones.dll
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.pdb
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.dll
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\ref\Fracciones.dll
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.pdb
+C:\Users\Nacho\source\repos\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\ref\Fracciones.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\bin\Debug\net6.0\Fracciones.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\ref\Fracciones.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 3 Fracciones\Fracciones\Fracciones\obj\Debug\net6.0\Fracciones.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\Ejercicio_05c_02B.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\Ejercicio_05c_02B.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\Ejercicio_05c_02B.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\Ejercicio_05c_02B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\ref\Ejercicio_05c_02B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\bin\Debug\net6.0\Ejercicio_05c_02B.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\ref\Ejercicio_05c_02B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.2 Uso avanzado de funciones\Ejercicio_05c_02B\obj\Debug\net6.0\Ejercicio_05c_02B.genruntimeconfig.cache

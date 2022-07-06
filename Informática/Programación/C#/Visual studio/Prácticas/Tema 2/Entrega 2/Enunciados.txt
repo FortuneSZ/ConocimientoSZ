@@ -1,0 +1,7 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Crea un programa en un archivo llamado Practica_2_2_1.cs que le pida al usuario dos notas numéricas enteras de 0 a 10. El programa debe pedirle tantas veces como sea necesario cada nota al usuario hasta que sea un valor correcto. Después, mostrará por pantalla la media (entera) de las dos notas.
+Crea un programa en un archivo llamado Practica_2_2_2.cs que le pida al usuario dos números enteros y realice un conteo desde el primero hasta el segundo. Deberás tener en cuenta que ese conteo puede ser ascendente o descendente, dependiendo de si el primer número es menor o mayor que el segundo, respectivamente.
+Para entregar:
+
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_2_2.zip.

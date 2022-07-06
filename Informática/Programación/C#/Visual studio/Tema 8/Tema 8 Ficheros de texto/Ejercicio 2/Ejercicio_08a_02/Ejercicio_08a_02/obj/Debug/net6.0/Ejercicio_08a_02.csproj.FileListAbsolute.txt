@@ -1,0 +1,31 @@
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\registroDeUsuario.txt
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.exe
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.deps.json
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.runtimeconfig.json
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\ref\Ejercicio_08a_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\ref\Ejercicio_08a_02.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.genruntimeconfig.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\registroDeUsuario.txt
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.exe
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.deps.json
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\ref\Ejercicio_08a_02.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\bin\Debug\net6.0\Ejercicio_08a_02.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\ref\Ejercicio_08a_02.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 2 Leer lineas de un fichero\Ejercicio_08a_02\Ejercicio_08a_02\obj\Debug\net6.0\Ejercicio_08a_02.genruntimeconfig.cache

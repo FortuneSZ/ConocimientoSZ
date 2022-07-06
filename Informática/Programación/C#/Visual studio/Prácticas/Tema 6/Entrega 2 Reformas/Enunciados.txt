@@ -1,0 +1,32 @@
+Una empresa de reformas tiene en su plantilla una serie de empleados. De todos ellos almacena su DNI, nombre y teléfono. Los empleados pueden ser arquitectos, en cuyo caso también se almacena su número de colegiado (entero), o pueden ser obreros, y en este caso almacenamos su edad y su especialidad (pintura, albañilería, fontanería...).
+
+La empresa lleva a cabo una serie de reformas, de las que almacenamos un código numérico identificativo, la fecha en que se va a iniciar la reforma (string), la duración prevista de la reforma en días (entero) y el precio (real). Además, cada reforma debe tener un arquitecto asignado que se encargue de planificarla.
+
+Nuestro programa principal creará un array de empleados predefinido (donde habrá tanto arquitectos como obreros), sin pedirle ninguna información al usuario. Después, creará un array para gestionar hasta 10 reformas, y mostrará un menú con las siguientes opciones:
+
+1. Nueva reforma: pediremos al usuario que introduzca los datos de la reforma: código, fecha, duración en días y precio, así como el DNI del arquitecto asignado para buscarlo y asignarlo a la reforma. Se asume que los datos numéricos son números válidos, pero se deben realizar las siguientes comprobaciones:
+
+El código de reforma no debe existir ya en el array de reformas
+El número de días y el precio deben ser positivos (> 0)
+El DNI del arquitecto debe corresponderse con alguno de los arquitectos dados de alta en el array de empleados
+Si algún dato no cumple los requisitos se mostrará el mensaje de "Datos incorrectos para la reforma", especificando además qué datos han fallado (por ejemplo, "No se ha encontrado un arquitecto con el DNI indicado"), y no se dará de alta en el array. En caso contrario se añadirá la nueva reforma al array. Hay que tener en cuenta que a partir de la reforma se deben poder obtener los datos completos del arquitecto asignado (debe haber una asociación entre ambas clases).
+2. Reforma más barata: se debe mostrar la reforma que tenga menor relación entre el precio y el número de días. Por ejemplo, una reforma que dure 2 días y cueste 1000 euros es más cara que una que dure 4 días y cueste 1000 euros.
+
+3. Listado de reformas: se mostrarán las reformas existentes en el array, separando estos datos en una sola línea, por comas:
+
+Código reforma, fecha, días, precio, nombre arquitecto, número colegiado
+Se deberá redefinir el método ToString en todas las clases implicadas para obtener la información correspondiente.
+
+4. Reformas por arquitecto: se introducirá un DNI de arquitecto y, si existe en el array de empleados, se mostrarán todas las reformas supervisadas por ese arquitecto.
+
+0. Salir
+
+Se valorará negativamente:
+
+La repetición innecesaria de código en las clases hija por no utilizar adecuadamente la partícula base
+La no modularidad de código en la clase principal para definir las distintas tareas a realizar
+Para entregar:
+
+Diagrama de clases del proyecto. Las clases que se deben identificar están marcadas en rojo en el enunciado. Deberéis añadir en cada una sus atributos (con la visibilidad adecuada) y los métodos y constructores que se implementen en cada una. No es necesario añadir en el diagrama getters/setters o propiedades get/set.
+Proyecto completo Reformas con las clases indicadas implementadas, junto con el programa principal
+Deberás entregar el proyecto junto con el diagrama en un archivo llamado Practica_6_2.zip

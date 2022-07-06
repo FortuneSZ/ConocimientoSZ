@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8abee8f3-d3a7-4500-bcc3-e503e5518241": {
+      "ProjectGuid": "8abee8f3-d3a7-4500-bcc3-e503e5518241",
+      "DisplayName": "Ejercicio_02c_05",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

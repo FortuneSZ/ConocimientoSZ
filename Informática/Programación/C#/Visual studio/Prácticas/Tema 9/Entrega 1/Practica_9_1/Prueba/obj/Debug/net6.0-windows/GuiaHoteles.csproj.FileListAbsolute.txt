@@ -1,0 +1,36 @@
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.exe
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.deps.json
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.runtimeconfig.json
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.dll
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\ref\GuiaHoteles.dll
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.pdb
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.AssemblyReference.cache
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.FormPrincipal.resources
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.NuevoHotel.resources
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.GenerateResource.cache
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.AssemblyInfoInputs.cache
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.AssemblyInfo.cs
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.CoreCompileInputs.cache
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.dll
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\ref\GuiaHoteles.dll
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.pdb
+C:\Users\Estudiant\Documents\1º\Programacion\Tema 9\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.genruntimeconfig.cache
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.exe
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.deps.json
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.runtimeconfig.json
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.dll
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\ref\GuiaHoteles.dll
+D:\PracT9\matias\Practic_9_1\Prueba\bin\Debug\net6.0-windows\GuiaHoteles.pdb
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.AssemblyReference.cache
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.FormPrincipal.resources
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.NuevoHotel.resources
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.GenerateResource.cache
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.AssemblyInfoInputs.cache
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.AssemblyInfo.cs
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.csproj.CoreCompileInputs.cache
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.dll
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\ref\GuiaHoteles.dll
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.pdb
+D:\PracT9\matias\Practic_9_1\Prueba\obj\Debug\net6.0-windows\GuiaHoteles.genruntimeconfig.cache

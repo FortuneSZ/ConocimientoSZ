@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\Trabajadores.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\Trabajadores.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\Trabajadores.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\Trabajadores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\ref\Trabajadores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\bin\Debug\net6.0\Trabajadores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\ref\Trabajadores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.1 Relaciones entre clases\Ejercicio 9 Trabajadores\Trabajadores\obj\Debug\net6.0\Trabajadores.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\holi.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\holi.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\holi.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\holi.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\ref\holi.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\bin\Debug\net6.0\holi.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\ref\holi.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\holi\obj\Debug\net6.0\holi.genruntimeconfig.cache

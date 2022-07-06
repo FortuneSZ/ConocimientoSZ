@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.runtimeconfig.dev.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ref\ejercicio_01c_06.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\bin\Debug\net5.0\ejercicio_01c_06.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ref\ejercicio_01c_06.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 1\Ejercicio 6 Pasar de metros a millas\ejercicio_01c_06\obj\Debug\net5.0\ejercicio_01c_06.genruntimeconfig.cache

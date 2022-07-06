@@ -1,0 +1,16 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Crea un programa en un archivo llamado Practica_2_3_1.cs que le pida al usuario una altura h y dibuje una figura como esta con la altura indicada (alineada al margen izquierdo). Por ejemplo, esta figura se dibuja con una altura de 5.
+*        *
+**      **
+***    ***
+****  ****
+**********
+Crea un programa en un archivo llamado Practica_2_3_2.cs que simule el cambio en una tienda. El usuario introducirá por teclado el importe total a pagar y cuánto dinero da. Si el usuario paga menos que el importe a pagar, mostraremos el mensaje de "Importe incorrecto", y si paga la cantidad justa, mostraremos "El importe es exacto". De lo contrario, mostraremos el desglose del cambio. Se dispone de billetes o monedas de 50, 20, 10, 5, 2 y 1, y se le debe dar al usuario el cambio partiendo siempre del billete o moneda mayor posible .Por ejemplo, si el total a pagar son 51 euros y el usuario paga con 100, el programa debe mostrar este mensaje: 
+Total a devolver: 49
+2 de 20
+1 de 5
+2 de 2
+Para entregar:
+
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_2_3.zip.

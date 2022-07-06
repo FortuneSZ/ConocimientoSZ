@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urgencias", "Urgencias.csproj", "{8FC48569-63FC-4708-9084-6D0FD48D8D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC48569-63FC-4708-9084-6D0FD48D8D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC48569-63FC-4708-9084-6D0FD48D8D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC48569-63FC-4708-9084-6D0FD48D8D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC48569-63FC-4708-9084-6D0FD48D8D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBFD1A8-6E5A-475F-9212-0C9EB2199D90}
+	EndGlobalSection
+EndGlobal

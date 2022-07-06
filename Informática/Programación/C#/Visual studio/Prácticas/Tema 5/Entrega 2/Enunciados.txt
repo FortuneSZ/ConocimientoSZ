@@ -1,0 +1,71 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Ejercicio 1
+
+Crea un programa en un archivo llamado Nim.cs que simule el juego del Nim. Se trata de un juego de mesa donde se tienen inicialmente N fichas y, por turnos, cada uno de los dos jugadores que participa retira una cantidad de 1 a 3 fichas. Pierde el jugador que retira la última ficha.
+
+El programa deberá cumplir los siguientes requisitos:
+
+Le pediremos primero al usuario cuántas fichas habrá para empezar. Dicho número debe estar comprendido entre 10 y 20 en nuestro juego, y se lo pediremos repetidamente hasta que sea correcto. Después le pediremos el nivel de dificultad (1 - Fácil, 2 - Difícil). Deberás utilizar TryParse en este punto para asegurarte de que los dos datos introducidos sean correctos.
+Tendrá una función llamada TurnoUsuario, que recibirá por referencia el número de fichas restantes. Internamente, le preguntará al usuario cuántas fichas quiere retirar, y lo hará de forma repetida hasta comprobar que sea un número válido entre 1 y 3 (o entre 1 y el número de fichas restantes, si es menor que 3). Nuevamente, deberás usar aquí TryParse. Después, decrementará esas fichas del total y finalizará.
+Tendrá otra función llamada TurnoOrdenador que recibirá también por referencia el número de fichas restantes y el nivel de dificultad elegido (esto último se pasará por valor). Dependiendo del nivel de dificultad hará una de estas dos cosas: 
+Si el nivel es 1 (fácil), quitará una cantidad aleatoria entre 1 y 3 (o entre 1 y el número de fichas restantes, si es menor que 3), decrementando el total de fichas
+Si el nivel es 2 (difícil) deberá plantear una estrategia inteligente para intentar ganar la partida, quitando un número de fichas adecuado para ello.
+Desde el programa principal, se sorteará aleatoriamente quién empieza la partida, y se iniciará un bucle donde se llamará alternativamente a una u otra función, según de quién sea el turno, hasta que quede 1 o 0 fichas, indicando en ese caso quién gana la partida.
+Ejemplo de juego:
+
+Escribe el número de fichas para empezar:
+25
+Número de fichas incorrecto
+Escribe el número de fichas para empezar:
+20
+Escribe el nivel de dificultad:
+1
+Iniciando juego Nim con 20 fichas, nivel 1
+Turno del usuario
+Elige número de fichas
+4
+Número incorrecto
+Elige número de fichas
+3
+Quedan 17 fichas
+Turno del ordenador
+El ordenador retira 2 fichas
+Quedan 15 fichas
+Turno del usuario
+Elige número de fichas
+3
+Quedan 12 fichas
+Turno del ordenador
+El ordenador retira 3 fichas
+Quedan 9 fichas
+Turno del usuario
+Elige número de fichas
+2
+Quedan 7 fichas
+Turno del ordenador
+El ordenador retira 1 fichas
+Quedan 6 fichas
+Turno del usuario
+Elige número de fichas
+2
+Quedan 4 fichas
+Turno del ordenador
+El ordenador retira 2 fichas
+Quedan 2 fichas
+Turno del usuario
+Elige número de fichas
+1
+Quedan 1 fichas
+Gana el usuario
+Ejercicio 2
+
+Crea un programa en un archivo llamado Corrector.cs. Internamente, define un array de strings predefinido, con una serie de palabras en minúscula. Después, el programa le pedirá al usuario que escriba una frase de hasta 60 caracteres (si hay más, se cortará a partir del carácter 60).
+
+Finalmente, el programa debe mostrar la frase centrada en la consola, y dejará en rojo las palabras que no existan en el array predefinido.
+
+Por ejemplo, si el array contiene las palabras {"buenos", "dias", "tal", "tenga", "usted"} y el usuario escribe la frase "hola buenos dias qué tal está usted", deberá mostrar el siguiente resultado (centrado en consola)
+
+hola buenos dias qué tal está usted
+Para entregar:
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_5_2.zip.

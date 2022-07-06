@@ -1,0 +1,14 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\Ejercicio_03c_07.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\Ejercicio_03c_07.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\Ejercicio_03c_07.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\Ejercicio_03c_07.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\ref\Ejercicio_03c_07.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\bin\Debug\net6.0\Ejercicio_03c_07.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\ref\Ejercicio_03c_07.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 3\Tema 3.2 Otros tipos básicos\Ejercicio_03c_07\obj\Debug\net6.0\Ejercicio_03c_07.genruntimeconfig.cache

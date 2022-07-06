@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\Hoteles.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\Hoteles.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\Hoteles.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\Hoteles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\ref\Hoteles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\bin\Debug\net6.0\Hoteles.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\ref\Hoteles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Hoteles\obj\Debug\net6.0\Hoteles.genruntimeconfig.cache

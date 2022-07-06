@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\Ejercicio_04c_014.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\Ejercicio_04c_014.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\Ejercicio_04c_014.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\Ejercicio_04c_014.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\ref\Ejercicio_04c_014.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\bin\Debug\net6.0\Ejercicio_04c_014.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\ref\Ejercicio_04c_014.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4.2 Cadenas de texto\Ejercicio_04c_014\obj\Debug\net6.0\Ejercicio_04c_014.genruntimeconfig.cache

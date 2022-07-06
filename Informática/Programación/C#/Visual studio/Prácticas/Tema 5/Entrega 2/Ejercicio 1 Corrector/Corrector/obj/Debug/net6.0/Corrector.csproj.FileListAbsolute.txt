@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\Corrector.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\Corrector.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\Corrector.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\Corrector.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\ref\Corrector.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\bin\Debug\net6.0\Corrector.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\ref\Corrector.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 2\Ejercicio 1 Corrector\Corrector\obj\Debug\net6.0\Corrector.genruntimeconfig.cache

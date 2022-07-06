@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\Ejercicio_05a_02b.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\Ejercicio_05a_02b.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\Ejercicio_05a_02b.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\Ejercicio_05a_02b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\ref\Ejercicio_05a_02b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\bin\Debug\net6.0\Ejercicio_05a_02b.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\ref\Ejercicio_05a_02b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_02b\obj\Debug\net6.0\Ejercicio_05a_02b.genruntimeconfig.cache

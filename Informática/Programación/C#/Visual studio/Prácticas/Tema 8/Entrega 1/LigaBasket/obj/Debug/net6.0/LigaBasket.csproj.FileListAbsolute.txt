@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\LigaBasket.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\LigaBasket.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\LigaBasket.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\LigaBasket.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\ref\LigaBasket.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\bin\Debug\net6.0\LigaBasket.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\ref\LigaBasket.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 8\Entrega 1\LigaBasket\obj\Debug\net6.0\LigaBasket.genruntimeconfig.cache

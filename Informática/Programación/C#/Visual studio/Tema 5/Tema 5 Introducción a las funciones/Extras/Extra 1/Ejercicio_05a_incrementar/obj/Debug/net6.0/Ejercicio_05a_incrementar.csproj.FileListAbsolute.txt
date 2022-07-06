@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\Ejercicio_05a_incrementar.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\Ejercicio_05a_incrementar.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\Ejercicio_05a_incrementar.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\Ejercicio_05a_incrementar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\ref\Ejercicio_05a_incrementar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\bin\Debug\net6.0\Ejercicio_05a_incrementar.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\ref\Ejercicio_05a_incrementar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5 Introducción a las funciones\Ejercicio_05a_incrementar\obj\Debug\net6.0\Ejercicio_05a_incrementar.genruntimeconfig.cache

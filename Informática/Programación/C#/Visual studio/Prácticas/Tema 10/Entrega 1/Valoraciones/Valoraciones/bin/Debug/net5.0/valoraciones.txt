@@ -1,0 +1,7 @@
+Paco;Paco@email.com;28/09/2000;2
+Lola;Lola@email.com;08/02/1999;1
+Ares;Ares@email.com;31/03/1999;0
+Blas;Blas@email.com;12/10/1999;0
+Kira;Kira@email.com;11/06/2001;1
+Pepe;Pepe@email.com;10/08/1998;4
+Peter;Peter@email.com;20/10/1995;4

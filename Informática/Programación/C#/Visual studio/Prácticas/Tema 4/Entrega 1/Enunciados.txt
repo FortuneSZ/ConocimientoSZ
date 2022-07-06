@@ -1,0 +1,21 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Ejercicio 1
+
+Crea un programa en un archivo llamado Practica_4_1_1.cs que almacene la evolución del valor de unas acciones en bolsa (valores reales). Le pediremos al usuario cuántos valores va a introducir, y después almacenaremos esos valores en un array (de floats). Al finalizar, debemos examinar los valores almacenados y decirle al usuario:
+
+Si cada valor es mayor o igual que el anterior: "Las acciones están al alza"
+Si cada valor es menor o igual que el anterior: "Las acciones están a la baja"
+Si no sigue ninguno de los dos patrones anteriores: "Las acciones están oscilando"
+Ejercicio 2
+
+Crea un programa en un archivo llamado Practica_4_1_2.cs que le pida al usuario el tamaño N (filas y columnas) de un array bidimensional (tabla), y cree una tabla de enteros de ese tamaño. Después, le pedirá al usuario que rellene cada uno de los valores de la tabla y, al finalizar, le deberá decir si la tabla representa una matriz identidad o no.
+
+Una matriz identidad es aquella donde todas las casillas son ceros, salvo las de la diagonal principal (aquellas donde la fila es igual a la columna), que son unos. Por ejemplo, esto es una matriz identidad de tamaño 3.
+
+1  0  0
+0  1  0
+0  0  1
+Para entregar:
+
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_4_1.zip.

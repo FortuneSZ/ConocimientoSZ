@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "El caloret",
+    "Provincia": "Valencia",
+    "Precio": 25,
+    "Estrellas": 3
+  },
+  {
+    "Nombre": "Husa",
+    "Provincia": "Alicante",
+    "Precio": 35,
+    "Estrellas": 4
+  },
+  {
+    "Nombre": "Madrid Palace",
+    "Provincia": "Barcelona",
+    "Precio": 95.99,
+    "Estrellas": 5
+  },
+  {
+    "Nombre": "Mio Cid",
+    "Provincia": "Alicante",
+    "Precio": 12.5,
+    "Estrellas": 3
+  },
+  {
+    "Nombre": "Prueba",
+    "Provincia": "Madrid",
+    "Precio": 100,
+    "Estrellas": 5
+  }
+]

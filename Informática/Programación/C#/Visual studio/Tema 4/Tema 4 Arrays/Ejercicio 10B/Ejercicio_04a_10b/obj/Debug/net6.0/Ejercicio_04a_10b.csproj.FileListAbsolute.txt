@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\Ejercicio_04a_10b.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\Ejercicio_04a_10b.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\Ejercicio_04a_10b.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\Ejercicio_04a_10b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\ref\Ejercicio_04a_10b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\bin\Debug\net6.0\Ejercicio_04a_10b.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\ref\Ejercicio_04a_10b.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 4\Tema 4 Arrays\Ejercicio_04a_10b\obj\Debug\net6.0\Ejercicio_04a_10b.genruntimeconfig.cache

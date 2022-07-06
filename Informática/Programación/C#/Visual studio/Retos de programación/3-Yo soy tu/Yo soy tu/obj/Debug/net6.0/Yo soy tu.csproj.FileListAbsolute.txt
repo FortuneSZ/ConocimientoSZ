@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\Yo soy tu.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\Yo soy tu.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\Yo soy tu.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\Yo soy tu.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\ref\Yo soy tu.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\bin\Debug\net6.0\Yo soy tu.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\ref\Yo soy tu.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Yo soy tu\obj\Debug\net6.0\Yo soy tu.genruntimeconfig.cache

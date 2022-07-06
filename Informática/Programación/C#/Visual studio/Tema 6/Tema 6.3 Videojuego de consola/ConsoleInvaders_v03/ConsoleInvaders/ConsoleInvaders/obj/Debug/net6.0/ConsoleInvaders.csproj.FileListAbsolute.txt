@@ -1,0 +1,30 @@
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+D:\Neo downloads\ConsoleInvaders_v03\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache

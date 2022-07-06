@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\Instituto.exe
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\Instituto.deps.json
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\Instituto.runtimeconfig.json
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\Instituto.dll
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\ref\Instituto.dll
+C:\Users\Nacho\source\repos\Instituto\Instituto\bin\Debug\net6.0\Instituto.pdb
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.dll
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\ref\Instituto.dll
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.pdb
+C:\Users\Nacho\source\repos\Instituto\Instituto\obj\Debug\net6.0\Instituto.genruntimeconfig.cache

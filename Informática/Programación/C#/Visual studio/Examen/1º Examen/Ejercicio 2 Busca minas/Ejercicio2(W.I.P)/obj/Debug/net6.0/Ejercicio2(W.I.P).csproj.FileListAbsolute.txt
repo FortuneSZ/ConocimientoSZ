@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\Ejercicio2(W.I.P).exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\Ejercicio2(W.I.P).deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\Ejercicio2(W.I.P).runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\Ejercicio2(W.I.P).dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\ref\Ejercicio2(W.I.P).dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\bin\Debug\net6.0\Ejercicio2(W.I.P).pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\ref\Ejercicio2(W.I.P).dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\1º Examen\Ejercicio2(W.I.P)\obj\Debug\net6.0\Ejercicio2(W.I.P).genruntimeconfig.cache

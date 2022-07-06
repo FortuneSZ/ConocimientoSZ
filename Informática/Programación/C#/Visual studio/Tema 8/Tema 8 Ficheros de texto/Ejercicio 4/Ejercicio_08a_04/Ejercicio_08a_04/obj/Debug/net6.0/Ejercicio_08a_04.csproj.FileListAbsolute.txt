@@ -1,0 +1,33 @@
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\fichero1.txt
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\fichero2.txt
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.exe
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.deps.json
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.runtimeconfig.json
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\ref\Ejercicio_08a_04.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\ref\Ejercicio_08a_04.dll
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.pdb
+C:\Users\Nacho\source\repos\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.genruntimeconfig.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\fichero1.txt
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\fichero2.txt
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.exe
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.deps.json
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\ref\Ejercicio_08a_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\bin\Debug\net6.0\Ejercicio_08a_04.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\ref\Ejercicio_08a_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 8\Tema 8 Ficheros de texto\Ejercicio 4 ostrar fichero determinado por el usuario\Ejercicio_08a_04\Ejercicio_08a_04\obj\Debug\net6.0\Ejercicio_08a_04.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\Personas Constructores.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\Personas Constructores.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\Personas Constructores.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\Personas Constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\ref\Personas Constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\bin\Debug\net6.0\Personas Constructores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\ref\Personas Constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Personas Constructores\obj\Debug\net6.0\Personas Constructores.genruntimeconfig.cache

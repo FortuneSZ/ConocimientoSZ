@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\Dia_de_Navidad.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\Dia_de_Navidad.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\Dia_de_Navidad.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\Dia_de_Navidad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\ref\Dia_de_Navidad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\bin\Debug\net6.0\Dia_de_Navidad.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\ref\Dia_de_Navidad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Dia_de_Navidad\obj\Debug\net6.0\Dia_de_Navidad.genruntimeconfig.cache

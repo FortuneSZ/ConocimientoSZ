@@ -1,0 +1,30 @@
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.exe
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.deps.json
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.runtimeconfig.json
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\ref\Ejercicio_10b_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.pdb
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\ref\Ejercicio_10b_01.dll
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.pdb
+C:\Users\Nacho\source\repos\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.genruntimeconfig.cache
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.exe
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.deps.json
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.dll
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\ref\Ejercicio_10b_01.dll
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\bin\Debug\net6.0\Ejercicio_10b_01.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.dll
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\ref\Ejercicio_10b_01.dll
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.1 Gestión de fecha y hora\Ejercicio_10b_01\Ejercicio_10b_01\obj\Debug\net6.0\Ejercicio_10b_01.genruntimeconfig.cache

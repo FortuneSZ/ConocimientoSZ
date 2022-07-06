@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\SieteYMedia.exe
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\SieteYMedia.deps.json
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\SieteYMedia.runtimeconfig.json
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\SieteYMedia.dll
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\ref\SieteYMedia.dll
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\bin\Debug\net6.0\SieteYMedia.pdb
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.dll
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\ref\SieteYMedia.dll
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.pdb
+C:\Users\Nacho\source\repos\SieteYMedia\SieteYMedia\obj\Debug\net6.0\SieteYMedia.genruntimeconfig.cache

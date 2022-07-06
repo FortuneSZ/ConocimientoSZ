@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\Rutinas.exe
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\Rutinas.deps.json
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\Rutinas.runtimeconfig.json
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\Rutinas.dll
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\ref\Rutinas.dll
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\bin\Debug\net6.0\Rutinas.pdb
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.dll
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\ref\Rutinas.dll
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.pdb
+C:\Users\Nacho\source\repos\Rutinas\Rutinas\obj\Debug\net6.0\Rutinas.genruntimeconfig.cache

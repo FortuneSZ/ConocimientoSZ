@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\Salto de trampolín.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\Salto de trampolín.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\Salto de trampolín.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\Salto de trampolín.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\ref\Salto de trampolín.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\bin\Debug\net6.0\Salto de trampolín.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\ref\Salto de trampolín.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 2 Salto de trampolín\Salto de trampolín\obj\Debug\net6.0\Salto de trampolín.genruntimeconfig.cache

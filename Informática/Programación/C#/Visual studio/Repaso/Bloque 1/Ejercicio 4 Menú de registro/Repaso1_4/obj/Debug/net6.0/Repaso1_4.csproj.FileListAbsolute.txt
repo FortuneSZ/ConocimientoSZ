@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\Repaso1_4.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\Repaso1_4.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\Repaso1_4.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\Repaso1_4.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\ref\Repaso1_4.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\bin\Debug\net6.0\Repaso1_4.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\ref\Repaso1_4.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Repaso\Bloque 1\Repaso1_4\obj\Debug\net6.0\Repaso1_4.genruntimeconfig.cache

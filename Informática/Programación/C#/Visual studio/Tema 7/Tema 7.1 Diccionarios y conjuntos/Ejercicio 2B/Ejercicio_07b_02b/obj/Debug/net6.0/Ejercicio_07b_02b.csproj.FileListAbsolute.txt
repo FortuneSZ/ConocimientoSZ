@@ -1,0 +1,15 @@
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\Ejercicio_07b_02b.exe
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\Ejercicio_07b_02b.deps.json
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\Ejercicio_07b_02b.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\Ejercicio_07b_02b.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\ref\Ejercicio_07b_02b.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\bin\Debug\net6.0\Ejercicio_07b_02b.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\ref\Ejercicio_07b_02b.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 2B Uso de enumeradores\Ejercicio_07b_02b\obj\Debug\net6.0\Ejercicio_07b_02b.genruntimeconfig.cache

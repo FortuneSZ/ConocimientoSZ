@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\Recetas.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\Recetas.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\Recetas.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\Recetas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\ref\Recetas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\bin\Debug\net6.0\Recetas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\ref\Recetas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\Examen final\Recetas\obj\Debug\net6.0\Recetas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\hola.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\hola.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\hola.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\hola.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\ref\hola.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\bin\Debug\net6.0\hola.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\ref\hola.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\hola\obj\Debug\net6.0\hola.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\Ejercicio_05b_01B.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\Ejercicio_05b_01B.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\Ejercicio_05b_01B.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\Ejercicio_05b_01B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\ref\Ejercicio_05b_01B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\bin\Debug\net6.0\Ejercicio_05b_01B.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\ref\Ejercicio_05b_01B.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 5\Tema 5.1 Algunas funciones útiles\Ejercicio_05b_01B\obj\Debug\net6.0\Ejercicio_05b_01B.genruntimeconfig.cache

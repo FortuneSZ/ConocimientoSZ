@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\Recursividad.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\Recursividad.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\Recursividad.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\Recursividad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\ref\Recursividad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\bin\Debug\net6.0\Recursividad.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\ref\Recursividad.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 5\Entrega 3\Ejercicio 1 Recursividad\Recursividad\obj\Debug\net6.0\Recursividad.genruntimeconfig.cache

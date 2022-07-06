@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\string.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\string.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\string.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\string.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\ref\string.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\bin\Debug\net6.0\string.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\ref\string.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\string\obj\Debug\net6.0\string.genruntimeconfig.cache

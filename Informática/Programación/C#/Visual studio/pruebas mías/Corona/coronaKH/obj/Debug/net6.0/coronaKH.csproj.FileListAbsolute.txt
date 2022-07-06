@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\coronaKH.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\coronaKH.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\coronaKH.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\coronaKH.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\ref\coronaKH.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\bin\Debug\net6.0\coronaKH.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\ref\coronaKH.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\coronaKH\obj\Debug\net6.0\coronaKH.genruntimeconfig.cache

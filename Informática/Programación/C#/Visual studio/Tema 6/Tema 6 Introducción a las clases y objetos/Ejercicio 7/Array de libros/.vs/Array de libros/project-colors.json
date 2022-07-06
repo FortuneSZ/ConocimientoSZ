@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f56883b-cc6b-444a-8b65-cb7ed538c223": {
+      "ProjectGuid": "7f56883b-cc6b-444a-8b65-cb7ed538c223",
+      "DisplayName": "Array de libros",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75990508-aded-4788-885c-35f770fda122": {
+      "ProjectGuid": "75990508-aded-4788-885c-35f770fda122",
+      "DisplayName": "CasasPuertas",
+      "ColorIndex": 0
+    },
+    "85996a8c-eda7-4ee6-ba41-f4b3e3056723": {
+      "ProjectGuid": "85996a8c-eda7-4ee6-ba41-f4b3e3056723",
+      "DisplayName": "CasasPuertas bidireccional",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

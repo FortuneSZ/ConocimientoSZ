@@ -1,0 +1,16 @@
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.exe
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.deps.json
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.runtimeconfig.json
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.runtimeconfig.dev.json
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.dll
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\ref\Valoraciones.dll
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\bin\Debug\net5.0\Valoraciones.pdb
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.csproj.AssemblyReference.cache
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.AssemblyInfoInputs.cache
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.AssemblyInfo.cs
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.dll
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\ref\Valoraciones.dll
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.pdb
+C:\Users\Roberto Fito\Programacion\Valoraciones\Valoraciones\obj\Debug\net5.0\Valoraciones.genruntimeconfig.cache

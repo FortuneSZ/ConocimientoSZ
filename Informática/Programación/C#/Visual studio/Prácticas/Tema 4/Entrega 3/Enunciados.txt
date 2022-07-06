@@ -1,0 +1,35 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Ejercicio 1
+
+Crea un programa en un archivo llamado Practica_4_3_1.cs que sea una ampliación de la anterior. Toma la solución que se ha dejado subida en el GitHub del módulo y añade estos cambios:
+
+Opción 6 del menú: ordenar el listado alfabéticamente por nombre de alumno (ascendentemente) y mostrarlo (con el mismo formato que la opción 3).
+Opción 7 del menú: ordenar el listado por nota de examen, descendentemente, y mostrarlo (con el mismo formato que la opción 3). 
+Ejercicio 2
+
+Crea un programa en un archivo llamado Practica_4_3_2.cs que le pida al usuario la lista de nombres de invitados a una boda, separados por comas, y la ordene alfabéticamente de menor a mayor. Después, deberá mostrar al usuario todas las posibles formas de agrupar a los invitados en grupos iguales alfabéticamente.
+
+Por ejemplo, si la lista de nombres es esta:
+
+Juan,Elisa,Gabriel,Ana,Juanjo,Gema,Aitana,Rocío,Marcos,Julieta
+Entonces primero deberá dejar la lista ordenada, de este modo
+
+Aitana,Ana,Elisa,Gabriel,Gema,Juan,Juanjo,Julieta,Marcos,Rocío
+Después, deberá determinar que, al ser 10 invitados, se pueden distribuir de 2 en 2 de este modo...
+
+Grupos de 2:
+Aitana-Ana
+Elisa-Gabriel
+Gema-Juan
+Juanjo-Julieta
+Marcos-Rocío
+... o de 5 en 5 de este modo:
+
+Grupos de 5:
+Aitana-Ana-Elisa-Gabriel-Gema
+Juan-Juanjo-Julieta-Marcos-Rocío
+Quedan excluidos grupos de 1 o del total de invitados. Si el número de invitados no permite formar subgrupos, se le indicará al usuario que "Imposible agrupar invitados".
+Para entregar:
+
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_4_3.zip.

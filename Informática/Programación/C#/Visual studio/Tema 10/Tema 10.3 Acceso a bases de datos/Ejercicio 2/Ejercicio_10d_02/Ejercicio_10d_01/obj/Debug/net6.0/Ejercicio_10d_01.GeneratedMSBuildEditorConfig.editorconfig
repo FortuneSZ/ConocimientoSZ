@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio_10d_01
+build_property.ProjectDir = F:\Académico\Programación\C#\Visual studio\Tema 10\Tema 10.3 Acceso a bases de datos\Ejercicio 2 Lista de videojuegos 2\Ejercicio_10d_02\Ejercicio_10d_01\

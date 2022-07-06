@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\pruebaconcatenar.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\pruebaconcatenar.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\pruebaconcatenar.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\pruebaconcatenar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\ref\pruebaconcatenar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\bin\Debug\net6.0\pruebaconcatenar.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\ref\pruebaconcatenar.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\pruebas mías\pruebaconcatenar\obj\Debug\net6.0\pruebaconcatenar.genruntimeconfig.cache

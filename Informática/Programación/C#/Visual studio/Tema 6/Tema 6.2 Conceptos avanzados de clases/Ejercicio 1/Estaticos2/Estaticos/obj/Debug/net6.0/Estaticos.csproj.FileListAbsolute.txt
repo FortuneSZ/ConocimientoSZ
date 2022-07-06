@@ -1,0 +1,30 @@
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.exe
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.deps.json
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.runtimeconfig.json
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.dll
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\ref\Estaticos.dll
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.pdb
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.dll
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\ref\Estaticos.dll
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.pdb
+C:\Users\Nacho\source\repos\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\ref\Estaticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\bin\Debug\net6.0\Estaticos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\ref\Estaticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Estaticos\Estaticos\obj\Debug\net6.0\Estaticos.genruntimeconfig.cache

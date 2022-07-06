@@ -1,0 +1,60 @@
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\source\repos\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+C:\Users\Nacho\Downloads\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+D:\Descargas\ConsoleInvaders_v06\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.3 Videojuego de consola\ConsoleInvaders_v06 Final\ConsoleInvaders\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache

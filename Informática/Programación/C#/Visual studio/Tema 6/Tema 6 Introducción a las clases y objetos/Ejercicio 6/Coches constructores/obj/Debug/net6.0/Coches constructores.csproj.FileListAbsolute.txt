@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\Coches constructores.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\Coches constructores.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\Coches constructores.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\Coches constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\ref\Coches constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\bin\Debug\net6.0\Coches constructores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\ref\Coches constructores.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6 Introducción a las clases y objetos\Coches constructores\obj\Debug\net6.0\Coches constructores.genruntimeconfig.cache

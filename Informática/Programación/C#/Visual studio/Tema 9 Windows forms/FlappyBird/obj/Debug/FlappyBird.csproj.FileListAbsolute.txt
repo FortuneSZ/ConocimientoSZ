@@ -1,0 +1,16 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\Imagenes\bg.jpeg
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\Imagenes\bird_spritesheet.png
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\Imagenes\flappybird_logo.jpg
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\Imagenes\pipe_segment.png
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\FlappyBird.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.Bienvenida.resources
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.Partida.resources
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Windows forms\FlappyBird\obj\Debug\FlappyBird.pdb

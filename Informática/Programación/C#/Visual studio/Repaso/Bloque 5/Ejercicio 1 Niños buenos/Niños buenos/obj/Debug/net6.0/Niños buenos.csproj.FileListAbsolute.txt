@@ -1,0 +1,15 @@
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\Niños buenos.exe
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\Niños buenos.deps.json
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\Niños buenos.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\Niños buenos.dll
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\ref\Niños buenos.dll
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\bin\Debug\net6.0\Niños buenos.pdb
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.dll
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\ref\Niños buenos.dll
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.pdb
+F:\Académico\Programación\C#\Visual studio\Repaso\Bloque 5\Ejercicio 1 Niños buenos\Niños buenos\obj\Debug\net6.0\Niños buenos.genruntimeconfig.cache

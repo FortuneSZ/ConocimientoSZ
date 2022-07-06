@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\RepasoRecursividad.exe
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\RepasoRecursividad.deps.json
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\RepasoRecursividad.runtimeconfig.json
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\RepasoRecursividad.dll
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\ref\RepasoRecursividad.dll
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\bin\Debug\net6.0\RepasoRecursividad.pdb
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.dll
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\ref\RepasoRecursividad.dll
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.pdb
+C:\Users\Nacho\source\repos\RepasoRecursividad\RepasoRecursividad\obj\Debug\net6.0\RepasoRecursividad.genruntimeconfig.cache

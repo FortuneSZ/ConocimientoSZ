@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajas", "Cajas.csproj", "{1EAC9920-7326-4569-8D0C-BE71EB43BA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAC9920-7326-4569-8D0C-BE71EB43BA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAC9920-7326-4569-8D0C-BE71EB43BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAC9920-7326-4569-8D0C-BE71EB43BA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAC9920-7326-4569-8D0C-BE71EB43BA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36964FCF-4B4D-41AF-8469-427F60E07EF7}
+	EndGlobalSection
+EndGlobal

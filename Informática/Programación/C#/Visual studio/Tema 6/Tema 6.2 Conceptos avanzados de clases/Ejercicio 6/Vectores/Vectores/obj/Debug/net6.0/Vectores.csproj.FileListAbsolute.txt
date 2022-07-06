@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\Vectores.exe
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\Vectores.deps.json
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\Vectores.runtimeconfig.json
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\Vectores.dll
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\ref\Vectores.dll
+C:\Users\Nacho\source\repos\Vectores\Vectores\bin\Debug\net6.0\Vectores.pdb
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.dll
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\ref\Vectores.dll
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.pdb
+C:\Users\Nacho\source\repos\Vectores\Vectores\obj\Debug\net6.0\Vectores.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99bd1524-50d5-44c8-933b-25387ab9dbf6": {
+      "ProjectGuid": "99bd1524-50d5-44c8-933b-25387ab9dbf6",
+      "DisplayName": "Domotica",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

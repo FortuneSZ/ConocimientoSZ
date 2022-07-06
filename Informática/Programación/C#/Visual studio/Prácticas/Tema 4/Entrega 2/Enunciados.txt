@@ -1,0 +1,36 @@
+Realiza un programa en un archivo llamado Practica_4_2.cs que tenga lo siguiente:
+
+Estructuras de datos
+
+Vamos a gestionar las calificaciones de un listado de alumnos. Para ello, se pide definir dos estructuras:
+
+Una llamada calificacion que almacenará en dos campos las notas de teoría y prácticas (ambas de tipo float)
+Una llamada alumno que almacenará los datos de los alumnos: nombre, e-mail y calificaciones (un campo de tipo calificacion, que a su vez englobará la nota de teoría y prácticas del alumno)
+Funcionalidad
+
+El programa debe crear un array sobredimensionado con capacidad para hasta 50 alumnos. Después, debe mostrar repetidamente al usuario un menú con las siguientes opciones:
+
+1. Nuevo alumno: le pediremos al usuario los datos de un alumno (nombre, email y calificaciones) y lo añadiremos al final de los alumnos existentes. Deberemos comprobar si el nuevo alumno cabe, y si las calificaciones son valores válidos (números reales válidos entre 0 y 10, inclusive). De lo contrario, no se añadirá nada al array.
+
+2. Borrar alumno: si hay alumnos en el array, le pediremos al usuario la posición del alumno a borrar y, si es válida  (entre 1 y el número de alumnos actual) y el usuario confirma la operación, eliminaremos el alumno del array
+
+3. Ver alumnos: mostraremos la información de los alumnos actuales, uno por línea, con este formato:
+
+Nombre - Email - Nota teoría - Nota prácticas
+
+Por ejemplo:
+
+Juan Pérez - jperez@gmail.com - 7 - 4.5
+Elena García - egarc@gmail.com - 9 - 6.5
+...
+4. Alumnos aprobados: mostrará por pantalla los datos de los alumnos que tengan al menos un 4 en teoría y prácticas, y la media ponderada (70% teoría + 30% prácticas) sea de al menos un 5. El formato de salida será el mismo que para el caso anterior.
+
+5. Alumnos por nombre: le pedirá al usuario que escriba un nombre de alumno, y mostrará los datos de los alumnos que en su nombre contengan el texto indicado por el usuario, sin importar mayúsculas o minúsculas. Por ejemplo, si el usuario escribe "josé" mostrará todos los alumnos que en su nombre tengan el texto "josé", sin importar mayúsculas o minúsculas, tales como "José Antonio", "Juan José", etc. El formato de salida es el mismo que en los puntos anteriores.
+
+0. Salir
+
+Se valorará que se gestionen las opciones del menú a través de un tipo enumerado (enum) para facilitar posibles cambios futuros. También se valorará la usabilidad de la aplicación, es decir, que el usuario vea los mensajes apropiados de lo que tiene que hacer, y se le pida la información mínima imprescindible para completar la tarea.  Por ejemplo, para confirmar el borrado basta con que el usuario escriba S o N.
+
+Para entregar:
+
+Deberás entregar el archivo fuente comprimido en un archivo ZIP llamado Practica_4_2.zip.

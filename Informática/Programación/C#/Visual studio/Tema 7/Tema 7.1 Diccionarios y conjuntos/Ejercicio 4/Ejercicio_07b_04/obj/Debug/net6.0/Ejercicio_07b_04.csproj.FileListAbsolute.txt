@@ -1,0 +1,15 @@
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\Ejercicio_07b_04.exe
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\Ejercicio_07b_04.deps.json
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\Ejercicio_07b_04.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\Ejercicio_07b_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\ref\Ejercicio_07b_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\bin\Debug\net6.0\Ejercicio_07b_04.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\ref\Ejercicio_07b_04.dll
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.pdb
+F:\Académico\Programación\C#\Visual studio\Tema 7\Tema 7.1 Diccionarios y conjuntos\Ejercicio 4 Misma fecha de nacimiento\Ejercicio_07b_04\obj\Debug\net6.0\Ejercicio_07b_04.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\AgenciaInmobiliaria.exe
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\AgenciaInmobiliaria.deps.json
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\AgenciaInmobiliaria.runtimeconfig.json
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\AgenciaInmobiliaria.dll
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\ref\AgenciaInmobiliaria.dll
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\bin\Debug\net6.0\AgenciaInmobiliaria.pdb
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.dll
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\ref\AgenciaInmobiliaria.dll
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.pdb
+C:\Users\Nacho\source\repos\AgenciaInmobiliaria\AgenciaInmobiliaria\obj\Debug\net6.0\AgenciaInmobiliaria.genruntimeconfig.cache

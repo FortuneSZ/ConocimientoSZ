@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\Cerilla.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\Cerilla.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\Cerilla.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\Cerilla.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\ref\Cerilla.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\bin\Debug\net6.0\Cerilla.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\ref\Cerilla.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Retos de programación\Cerilla\obj\Debug\net6.0\Cerilla.genruntimeconfig.cache

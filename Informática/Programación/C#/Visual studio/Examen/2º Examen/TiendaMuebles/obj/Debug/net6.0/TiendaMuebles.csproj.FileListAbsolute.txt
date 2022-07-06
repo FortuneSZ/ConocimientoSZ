@@ -1,0 +1,30 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\ref\TiendaMuebles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\ref\TiendaMuebles.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.genruntimeconfig.cache
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.exe
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.deps.json
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.runtimeconfig.json
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.dll
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\ref\TiendaMuebles.dll
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\bin\Debug\net6.0\TiendaMuebles.pdb
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.csproj.AssemblyReference.cache
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.AssemblyInfoInputs.cache
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.AssemblyInfo.cs
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.csproj.CoreCompileInputs.cache
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.dll
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\ref\TiendaMuebles.dll
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.pdb
+F:\Académico\Programación\C#\Visual studio\Examen\2º Examen\TiendaMuebles\obj\Debug\net6.0\TiendaMuebles.genruntimeconfig.cache

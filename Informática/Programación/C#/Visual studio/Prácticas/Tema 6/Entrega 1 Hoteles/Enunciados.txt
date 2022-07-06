@@ -1,0 +1,22 @@
+Se pide crear un proyecto en Visual Studio llamado Hoteles con los siguientes elementos
+
+1. Clase Hotel
+
+Se definirá una clase Hotel para gestionar información de hoteles. De cada hotel nos interesa saber su nombre (string), localidad donde se ubica (string), precio por noche (float) y número de estrellas (entero de 1 a 5). Se definirá un constructor parametrizado que dé valor a todos los atributos, y los correspondientes getters y setters. Podéis emplear propiedades para aunar atributos y getters/setters, pero en este caso no se permite dejar los atributos en su forma abreviada (es decir, las partículas "get" y "set" deben tener código). En el caso del precio, el setter y el constructor deberán asegurarse de que sea mayor o igual que 0, y en el caso de las estrellas, deberán estar entre 1 y 5 inclusive (de lo contrario no se asignará el valor en ninguno de los dos casos).
+
+Además, añadiremos un método llamado Mostrar que sacará por pantalla la información del hotel con este formato:
+
+Nombre del hotel, Localidad (precio, estrellas)
+Por ejemplo
+
+Hotel Meliá, Alicante (135.95 eur/noche, ****)
+2. Programa principal
+
+En el programa principal (fichero Program.cs) se creará un array para almacenar hasta 20 hoteles, y se pedirá al usuario que elija una de las siguientes opciones del menú:
+
+Nuevo hotel: pediremos al usuario por teclado que introduzca los datos del hotel (comprobando con TryParse que los datos numéricos son válidos, hasta que lo sean), y daremos de alta el hotel en la primera posición disponible del array.
+Hoteles baratos: ordenará el array de menor a mayor precio por noche, y mostrará la información de los hoteles por pantalla. Se usará el método Mostrar de cada hotel para mostrar la información del mismo.
+Hoteles por estrellas: le pedirá al usuario que escriba una cantidad de estrellas (entre 1 y 5) y mostrará los hoteles que tengan al menos esa cantidad de estrellas. Deberemos comprobar que el número de estrellas es correcto. De lo contrario, mostraremos el mensaje de "Número de estrellas incorrecto" y finalizaremos esta opción. A la hora de mostrar los datos de los hoteles coincidentes, usaremos de nuevo el método Mostrar del objeto hotel correspondiente.
+Salir
+Para entregar:
+Deberás entregar el proyecto Visual Studio comprimido con todos los archivos que contenga (comprime la carpeta entera), en un archivo llamado Practica_6_1.zip

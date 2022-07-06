@@ -1,0 +1,25 @@
+Realiza los siguientes programas en lenguaje C#.
+
+Ejercicio 1
+
+Crea un programa en un archivo llamado Practica_5_1_1.cs que defina una función llamada ImprimirMenu. Recibirá como parámetro un array de strings con las opciones de un menú, y las mostrará (una por línea) al usuario. Además, la función deberá devolver un entero con la opción escogida por el usuario, asegurándose de que sea una opción válida (numérica y comprendida entre el rango definido para el menú). Puedes pasar dos parámetros más a la función para indicar el rango de opciones permitidas (número de opción mínimo y máximo).
+
+Utiliza esta función desde el programa principal para mostrar al usuario un menú con estas opciones, y comprobar que se recoge una opción correcta por parte del usuario:
+
+1. Insertar nuevo elemento
+2. Borrar elemento
+3. Mostrar elementos
+4. Buscar elemento
+5. Salir
+
+Ejercicio 2
+
+Crea un programa en un archivo llamado Practica_5_1_2.cs con una función CalcularEstadisticas que reciba como parámetro un array de números enteros y devuelva en tres parámetros de salida (out) la media, mediana y moda de los datos del array, SIN alterar la secuencia original de datos de dicho array. 
+
+NOTAS:
+La mediana de un array es el valor de en medio, estando el array ordenado de menor a mayor (recuerda: no debes alterar el orden del array original)
+La moda de un array es el valor que más veces se repite
+Prueba esta función desde el programa principal con el array { 3, 8, 6, 17, 4, 2, 9, 3, 10, 12, 9, 3, 2, 10}.
+
+Para entregar:
+Deberás entregar los dos archivos fuente (sin los ejecutables compilados) en un archivo ZIP llamado Practica_5_1.zip.

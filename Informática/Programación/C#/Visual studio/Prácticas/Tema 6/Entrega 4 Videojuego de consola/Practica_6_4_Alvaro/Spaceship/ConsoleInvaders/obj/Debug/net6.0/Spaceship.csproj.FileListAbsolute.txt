@@ -1,0 +1,30 @@
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.exe
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.deps.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\ref\Spaceship.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\ref\Spaceship.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Practicas\6\6.4\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\ref\Spaceship.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\bin\Debug\net6.0\Spaceship.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\ref\Spaceship.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 6\Entrega 4 Videojuego de consola\Practica_6_4_Alvaro\Spaceship\ConsoleInvaders\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache

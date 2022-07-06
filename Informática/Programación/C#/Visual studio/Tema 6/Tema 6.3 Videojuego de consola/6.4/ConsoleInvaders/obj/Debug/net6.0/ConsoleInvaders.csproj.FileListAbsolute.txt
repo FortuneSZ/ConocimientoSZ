@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\bin\Debug\net6.0\ConsoleInvaders.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ref\ConsoleInvaders.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6.4\ConsoleInvaders\obj\Debug\net6.0\ConsoleInvaders.genruntimeconfig.cache

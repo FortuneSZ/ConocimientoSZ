@@ -1,0 +1,16 @@
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\Mapa2D.exe
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\mapa.txt
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\Mapa2D.deps.json
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\Mapa2D.runtimeconfig.json
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\Mapa2D.dll
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\ref\Mapa2D.dll
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\bin\Debug\net6.0\Mapa2D.pdb
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.dll
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\ref\Mapa2D.dll
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.pdb
+C:\Users\Nacho\source\repos\Mapa2D\Mapa2D\obj\Debug\net6.0\Mapa2D.genruntimeconfig.cache

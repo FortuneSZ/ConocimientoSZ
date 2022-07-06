@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\Estáticos.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\Estáticos.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\Estáticos.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\Estáticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\ref\Estáticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\bin\Debug\net6.0\Estáticos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\ref\Estáticos.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\Tema 6.2 Conceptos avanzados de clases\Ejercicio 1 Estáticos\Estáticos\obj\Debug\net6.0\Estáticos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\Ejercicio_02a_10.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\Ejercicio_02a_10.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\Ejercicio_02a_10.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\Ejercicio_02a_10.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\ref\Ejercicio_02a_10.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\bin\Debug\net6.0\Ejercicio_02a_10.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\ref\Ejercicio_02a_10.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 2\Tema 2 Estructuras alternativas\Ejercicio_02a_10\obj\Debug\net6.0\Ejercicio_02a_10.genruntimeconfig.cache
